@@ -1,4 +1,7 @@
 ## ✉️ Find me on:
+![](https://visitor-badge.laobi.icu/badge?page_id=thiagosctto.thiagosctto)
+[![Github](https://img.shields.io/github/followers/thiagosctto?label=Follow&style=social)](https://github.com/thiagosctto)
+
 
 
 <p align="center">
