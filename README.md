@@ -10,15 +10,14 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: SpringBoot, Postman,Xampp.
+  ⚔️ Ferramentas: SpringBoot, Postman,Xampp.
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💼 Pode me chamar pelo Email (mailto:thiago.ctecnico@gmail.com) ou se preferir pelo Linkedin: ⤵️
 </p>
 
 <p align="left">
-<a (mailto:trademark@luzfaltex.com) <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/thiago-scaravonatto/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </p>
