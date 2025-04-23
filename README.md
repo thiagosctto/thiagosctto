@@ -18,8 +18,8 @@
 </p>
 
 <p align="left">
-  <a href="thiago.ctecnico@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=thiago.ctecnico@gmail.com" alt="Gmail"/></a>
+<a href="mailto:thiago.ctecnico@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/thiago-scaravonatto/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </p>
