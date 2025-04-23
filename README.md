@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💼 Pode me chamar pelo Email <a href="mailto:thiago.ctecnico@gmail.com"></a> ou se preferir pelo Linkedin: ⤵️
+  💼 Pode me chamar pelo Email ** thiago.ctecnico@gmail.com ** ou se preferir pelo Linkedin: ⤵️
 </p>
 
 <p align="left">
